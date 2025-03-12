@@ -1,0 +1,180 @@
+device
+an instrumentality invented for a particular purpose; "the device is small enough to wear on your wrist"; "a device intended to conserve water"
+157145, 6150
+
+domestic animal, domesticated animal
+any of various animals that have been tamed and made fit for a human environment
+145273, 5800
+
+placental, placental mammal, eutherian, eutherian mammal
+mammals having a placenta; all mammals except monotremes and marsupials
+121956, 4700
+
+vehicle
+a conveyance that transports people or objects
+85321, 3300
+
+invertebrate
+any animal lacking a backbone or notochord; the term is not used as a scientific classification
+79300, 3050
+
+consumer goods
+goods (as food or clothing) intended for direct use or consumption
+76445, 3000
+
+structure, construction
+a thing constructed; a complex entity constructed of many parts; "the structure consisted of a series of arches"; "she wore her hair in an amazing construction of whirls and ribbons"
+71800, 2800
+
+bird
+warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings
+67441, 2600
+
+container
+any object that can be used to hold things (especially a large metal boxlike object of standardized dimensions that can be loaded from one form of transport to another)
+61190, 2400
+
+covering
+an artifact that covers something else (usually to protect or shelter or conceal it)
+52633, 2050
+
+equipment
+an instrumentality needed for an undertaking or to perform a service
+47878, 1850
+
+reptile, reptilian
+any cold-blooded vertebrate of the class Reptilia including tortoises, turtles, snakes, lizards, alligators, crocodiles, and extinct forms
+46354, 1800
+
+implement
+instrumentation (a piece of equipment or tool) used to effect an end
+46090, 1850
+
+solid
+matter that is solid at room temperature and pressure
+32264, 1250
+
+furnishing
+(usually plural) the instrumentalities (furniture and appliances and other movable accessories including curtains and rugs) that make a home (or other area) livable
+26976, 1050
+
+substance
+a particular kind or species of matter with uniform properties; "shigella is one of the most toxic substances known to man"
+23156, 900
+
+aquatic vertebrate
+animal living wholly or chiefly in or on water
+20334, 800
+
+geological formation, formation
+(geology) the geological features of the earth
+11700, 450
+
+amphibian
+cold-blooded vertebrate typically living on land but breeding in water; aquatic larvae undergo metamorphosis into adult form
+10400, 400
+
+natural object
+an object occurring naturally; not made by man
+10400, 400
+
+game
+animal hunted for food or sport
+9100, 350
+
+fungus
+an organism of the kingdom Fungi lacking chlorophyll and feeding on organic matter; ranging from unicellular or multicellular organisms to spore-bearing syncytia
+9100, 350
+
+toiletry, toilet articles
+artifacts used in making your toilet (washing and taking care of your body)
+7222, 300
+
+abstraction, abstract entity
+a general concept formed by extracting common features from specific examples
+6500, 250
+
+public transport
+conveyance for passengers or mail or freight
+5200, 200
+
+part, portion
+something less than the whole of a human artifact; "the rear part of the house"; "glue the two parts together"
+5200, 200
+
+article
+one of a class of artifacts; "an article of clothing"
+4862, 200
+
+metatherian
+primitive pouched mammals found mainly in Australia and the Americas
+3900, 150
+
+system
+instrumentality that combines interrelated interacting artifacts designed to work as a coherent entity; "he bought a new stereo system"; "the system consists of a motor and a small computer"
+3900, 150
+
+person, individual, someone, somebody, mortal, soul
+a human being; "there was too much for one person to do"
+3900, 150
+
+agent
+a substance that exerts some force or effect
+3793, 150
+
+racer
+an animal that races
+2600, 100
+
+plant, flora, plant life
+(botany) a living organism lacking the power of locomotion
+2600, 100
+
+plaything, toy
+an artifact designed to be played with
+2600, 100
+
+prototherian
+primitive oviparous mammals found only in Australia and Tasmania and New Guinea
+2572, 100
+
+fabric, cloth, material, textile
+artifact made by weaving or felting or knitting or crocheting natural or synthetic fibers; "the fabric in the curtains was light and semitransparent"; "woven cloth originated in Mesopotamia around 5000 BC"; "she measured off enough material for a dress"
+2362, 100
+
+tusker
+any mammal with prominent tusks (especially an elephant or wild boar)
+1300, 50
+
+drygoods, soft goods
+textiles or clothing and related merchandise
+1300, 50
+
+decoration, ornament, ornamentation
+something used to beautify
+1300, 50
+
+connection, connexion, connector, connecter, connective
+an instrumentality that connects; "he soldered the connection"; "he didn't have the right connector between the amplifier and the speakers"
+1300, 50
+
+litter
+conveyance consisting of a chair or bed carried on two poles by bearers
+1300, 50
+
+medium
+a means or instrumentality for storing or communicating information
+1300, 50
+
+padding, cushioning
+artifact consisting of soft or resilient material used to fill or give shape or protect or add comfort
+1300, 50
+
+surface
+the outer boundary of an artifact or a material layer constituting or resembling such a boundary; "there is a special cleaner for these surfaces"; "the cloth had a pattern of red dots on a white surface"
+1300, 50
+
+location
+a point or extent in space
+1300, 50
+
