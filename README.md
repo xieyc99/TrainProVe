@@ -1,3 +1,4 @@
+## Code
 ### 1. Generate the Synthetic Dataset
 Using Stable Diffusion v1.4, latent consistency model, PixArt-$\alpha$ or Stable Cascade to Generate the Synthetic Dataset:
 #### 1.1 Generate CIFAR10/CIFAR100:
@@ -47,4 +48,18 @@ python eval_all.py \
     --G_d <The Text-to-image Model of Defender> \
     --G_sus <The Data Source of Suspicious Model> \
     --arch_shadow <The Architecture of the Shadow Model> \
+```
+
+## Acknowledgement
+This resipotry is based on [Diversity is Definitely Needed](https://github.com/Jordan-HS/Diversity_is_Definitely_Needed)
+
+## Citation
+If you find our data or project useful in your research, please cite:
+```
+@article{xie2025training,
+  title={Training Data Provenance Verification: Did Your Model Use Synthetic Data from My Generative Model for Training?},
+  author={Xie, Yuechen and Song, Jie and Wang, Huiqiong and Song, Mingli},
+  journal={arXiv preprint arXiv:2503.09122},
+  year={2025}
+}
 ```
